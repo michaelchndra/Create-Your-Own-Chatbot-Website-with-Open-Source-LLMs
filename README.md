@@ -3,7 +3,7 @@
   <h3 align="center">Create Your Own Chatbot Website with Open Source LLMs</h3>
 
   <p align="center">
-    Create a Anime with AI from Cognitive
+    Create Your Own Chatbot Like ChatGPT With Open Source LLMs
     <br/>
     <br/>
   </p>
